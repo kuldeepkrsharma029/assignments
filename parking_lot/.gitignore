@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.idea
+.vscode/
+
+build/
+dist/
+out/
+bin/
+node_modules/
+
+**/npm-debug.log
+test_logs/
+
+.nyc_output/
+coverage/
