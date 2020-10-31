@@ -1,4 +1,4 @@
-# Parkint Lot Application
+# Parking Lot Application
 A sample application to demonstrate oop using node.js
 
 ## Installation
